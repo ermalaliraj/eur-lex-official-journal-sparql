@@ -1,6 +1,6 @@
-# Download EU Law from EUR-lex
+# Download EU Laws from EUR-lex
 
-Open source project on how to download law from `EUR-lex`. 
+Open source project you can use for downloading European Commission laws from `EUR-lex`. <br/> <br/>
 All the present content is taken from the official page [wwww.eur-lex.europa.eu](https://eur-lex.europa.eu) and the 
 source code has been created following the website guidelines. The code is open source and compliant with 
 [Decision 2011/833/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833).
